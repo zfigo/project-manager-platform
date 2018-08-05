@@ -60,9 +60,7 @@
                                 </template>
                             </el-table-column>
                         </el-table>
-                        <div class="handle-row">
-                            <el-button type="danger">清空回收站</el-button>
-                        </div>
+                       
                     </template>
                 </el-tab-pane>
             </el-tabs>
