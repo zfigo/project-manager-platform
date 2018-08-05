@@ -24,7 +24,7 @@
                 </div>
                 <!-- 用户头像 -->
                 <div class="user-avator"><img src="static/img/img.jpg"></div>
-                <!-- 用户名下拉菜单 -->
+                <!-- 用户下拉 -->
                 <el-dropdown class="user-name" trigger="click" @command="handleCommand">
                     <span class="el-dropdown-link">
                         {{username}} <i class="el-icon-caret-bottom"></i>
