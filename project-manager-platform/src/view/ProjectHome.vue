@@ -49,7 +49,7 @@
             ],
             options1: {
                 title: '各产业项目预算',
-                autoWidth: true,   // 设置宽高自适应
+                autoWidth: true,   // 设置宽高自适应1
                 showValue: false,
                 bgColor: '#F9EFCC',
                 fillColor: '#00887C',
